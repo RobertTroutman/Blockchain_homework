@@ -13,4 +13,4 @@ Before we get started you should decide which command tool you would be most com
 
 * To start this project we will make sure we are in our directory that has our "Go Ethereum Tools". There we will setup our genesis by runnning the command `./puppeth`, followed by naming your network.
 
-![Creating Network](/ZBank/Screenshots/creating Network.png)
+![Creating Network](Screenshots/Creating_Network.png)
