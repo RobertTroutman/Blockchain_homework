@@ -1,5 +1,7 @@
 # Blockchain_homework
 
+![BlockChain Network](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/Blockchain.PNG)[Information-age,2019]
+
 ## Summary:
 
  In this homework we were asked to set up a custom testnet blockchain for our employer at ZBank, who had interest in the possibilities of what blockchain technologies could do for the company and customers together.
@@ -126,7 +128,7 @@ Great! Now the nodes are ready to start mining blocks!
 
 * By clicking `Check TX Status` you can see your transaction "Pending". It may take a few moments to get mined.
 
-![Transaction Pending!](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/Transaction-Pending.png)
+![Transaction Pending!](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/Pending-Transaction.png)
 
 * You can check your network of nodes to see if your transaction has successfully been mined and processed.
 
@@ -144,3 +146,6 @@ Great! Now the nodes are ready to start mining blocks!
 
 ## Sources:
 [Crowdfundinsider,2021](https://www.crowdfundinsider.com/2021/01/171079-defi-tokens-like-snx-uniswaps-uni-aave-yearn-finances-yfi-are-now-also-rallying-with-bitcoin-and-ethereum-report/)
+
+[Information-age,2019](https://www.information-age.com/five-blockchain-use-cases-123484558/)
+
