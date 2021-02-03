@@ -139,4 +139,8 @@ Great! Now the nodes are ready to start mining blocks!
 
 * Congratulations, you just created a blockchain and sent a transaction!!!
 
-![YAY! CONGRATS!!!](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/Congrats.png)
+![YAY! CONGRATS!!!](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/Congrats.png)[Crowdfundinsider,2021]
+
+
+## Sources:
+[Crowdfundinsider,2021](https://www.crowdfundinsider.com/2021/01/171079-defi-tokens-like-snx-uniswaps-uni-aave-yearn-finances-yfi-are-now-also-rallying-with-bitcoin-and-ethereum-report/)
