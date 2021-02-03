@@ -1,6 +1,6 @@
 # Blockchain_homework
 
-![BlockChain Network](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/Blockchain.PNG)[Information-age,2019]
+![BlockChain Network](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/blockchain.PNG)[Information-age,2019]
 
 ## Summary:
 
