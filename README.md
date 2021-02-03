@@ -141,11 +141,11 @@ Great! Now the nodes are ready to start mining blocks!
 
 * Congratulations, you just created a blockchain and sent a transaction!!!
 
-![YAY! CONGRATS!!!](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/Congrats.png)[Crowdfundinsider,2021]
+![YAY! CONGRATS!!!](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/Wolf-Of-Wallstreet.gif)[Giphy,2021]
 
 
 ## Sources:
-[Crowdfundinsider,2021](https://www.crowdfundinsider.com/2021/01/171079-defi-tokens-like-snx-uniswaps-uni-aave-yearn-finances-yfi-are-now-also-rallying-with-bitcoin-and-ethereum-report/)
+[Giphy,2021](https://giphy.com/gifs/the-wolf-of-wall-street-14cmFjYyvaIcko?epik=dj0yJnU9b3A0SUFrcmxydlVKcFN3S0RkSEliSFEweWNDNTQ1Y0smcD0wJm49c2RmeDBlUG5hZENSZ1NscDNYUG1BQSZ0PUFBQUFBR0FhTWFR)
 
 [Information-age,2019](https://www.information-age.com/five-blockchain-use-cases-123484558/)
 
