@@ -112,7 +112,7 @@ Great! Now the nodes are ready to start mining blocks!
 
 * Then type in your password that you saved
 
-![Enter Saved Password](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/Type-In-Password.PNG)
+![Enter Saved Password](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/Type-In-Password1.PNG)
 
 * Now that you have gained access to your account you can see your account address & balance of ETH on the right. You are able send ETH to your Account 2 address from your Account 1 address (current) by entering Account 2 address into the `To Address` bar. See example below.
 
