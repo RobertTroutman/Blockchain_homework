@@ -21,7 +21,7 @@ Before we get started you should decide which command tool you would be most com
 
 * Save the public and private keys for both accounts in a notepad. We will need this information for later. See example below.
 
-![Save Both Account Keys!](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/Save-Public-Account-Keys)
+![Save Both Account Keys!](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/Save-Public-Account-Keys.png)
 
 ### 2.
 * Once both test accounts are created we will setup our genesis block to run our network by runnning the command `./puppeth`, followed by naming your network.
@@ -112,7 +112,7 @@ Great! Now the nodes are ready to start mining blocks!
 
 * Then type in your password that you saved
 
-![Enter Saved Password](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/Type-In-Password.png)
+![Enter Saved Password](https://github.com/RobertTroutman/Blockchain_homework/blob/main/Screeenshots/Type-In-Password.PNG)
 
 * Now that you have gained access to your account you can see your account address & balance of ETH on the right. You are able send ETH to your Account 2 address from your Account 1 address (current) by entering Account 2 address into the `To Address` bar. See example below.
 
